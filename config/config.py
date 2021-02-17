@@ -1,1 +1,0 @@
-DRIVER = './drivers/chromedriver'

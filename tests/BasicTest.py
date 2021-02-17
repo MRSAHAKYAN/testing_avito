@@ -6,8 +6,6 @@ from selenium.webdriver import DesiredCapabilities, Remote
 
 from config import config
 
-from pages.LoginPage import LoginPage
-
 
 class BasicTest(unittest.TestCase):
     

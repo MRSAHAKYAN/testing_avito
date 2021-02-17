@@ -17,6 +17,7 @@
 4. проверить, что поле телефон - пустое https://yadi.sk/i/NabEqzg2AVoMdA.
 
 ### Что необходимо для запуска?
+* Python2.7
 * Скачать Selenium webdriver для Google Chrome [здесь](https://chromedriver.chromium.org/downloads);
 * Поместить chromedriver в папку **drivers**;
 * Выполнить команды:
